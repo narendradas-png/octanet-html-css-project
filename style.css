@@ -10,7 +10,10 @@ header {
     text-align: center;
     padding: 1rem;
 }
+h2{
+    text-align: center;
 
+}
 .intro {
     padding: 1rem;
 }
@@ -18,14 +21,17 @@ header {
 .image1{
     width: 400px;
     height: 400px;
+    padding-left: 80px;
 }
 .image2{
     width: 400px;
     height: 400px;
+    padding-left: 80px
 }
 .image3{
     width: 400px;
     height: 400px;
+    padding-left: 80px
     
 }
 
