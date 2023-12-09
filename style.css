@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: antiquewhite;
+}
+
+header {
+    background-color: #f4a460;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+.intro {
+    padding: 1rem;
+}
+
+.image1{
+    width: 400px;
+    height: 400px;
+}
+.image2{
+    width: 400px;
+    height: 400px;
+}
+.image3{
+    width: 400px;
+    height: 400px;
+    
+}
+
+footer {
+    background-color: #f4a460;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+
